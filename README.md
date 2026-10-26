@@ -14,11 +14,15 @@ I'm an aspiring software developer focused on Java, database development, and bu
 
 ## 🚀 Featured Projects
 
-### 1. Employee Management System
-A Java-based application for managing employee records using Oracle Database and JDBC.
+### 1. [Employee Management System](https://github.com/jasobantamahar/Employee-Management-System)
+A Java application for managing employee records using JDBC and Oracle Database.
 
-### 2. Student Management System
-A Java-based application for managing student records, searching and updating details, sorting marks, and viewing student statistics using Oracle Database and JDBC.
+**Technologies:** Java · JDBC · Oracle SQL
+
+### 2. [Student Management System](https://github.com/jasobantamahar/Student-Management-System)
+A Java application for adding, viewing, searching, updating, deleting, and sorting student records, with student statistics.
+
+**Technologies:** Java · JDBC · Oracle SQL
 
 ## 🎯 Current Goals
 
